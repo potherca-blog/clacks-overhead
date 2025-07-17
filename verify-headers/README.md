@@ -1,4 +1,4 @@
-# How to verify the Clacks Overhead header
+# How to verify Clacks Overhead
 
 There are several ways to verify that Clacks Overhead headers have been set, either using a web browser or command line tools.
 
