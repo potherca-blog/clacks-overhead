@@ -26,7 +26,32 @@ For instructions on how to add the `X-Clacks-Overhead` header to web servers, se
 
 For instructions on how to view the header, see ["How to verify Clacks Overhead"](verify-headers/).
 
+## Sites with Clacks Overhead for Robbert
+
+The sites below have added the `X-Clacks-Overhead` header for Robbert Müller.
+
+If you want a site to be added to the list, [open a merge request][5] to do so yourself, [open an issue,][6] and it will be added for you, or contact `clacks-for-robbert@pother.ca`.
+
+<!-- Sorted alphabetically -->
+
+### Community Projects
+
+- https://calsemver.org/
+
+### Friends of Robbert
+
+- https://peachey-schoorl.com/
+- https://pother.ca
+
+<!--
+### Robbert's Projects
+
+- https://pipeline-components.dev/
+-->
+
 [1]: https://wiki.lspace.org/GNU_Terry_Pratchett
 [2]: img/GNU-Robbert-Muller.gif
 [3]: img/robbert.jpg
 [4]: https://www.rfc-editor.org/rfc/rfc7230#section-3.2
+[5]: https://github.com/potherca-blog/clacks-overhead/edit/main/README.md
+[6]: https://github.com/potherca-blog/clacks-overhead/issues/new?title=Add%20website&body=Please%20add%20these%20website(s):%0A%0A-%20...&assignees=potherca
