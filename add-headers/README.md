@@ -4,8 +4,8 @@ How the Clacks Overhead header should be added depends on the server software th
 
 Instructions for common server software are provided here:
 
-- [Apache](add-headers.apache.md)
-- [Cloudflare](add-headers.cloudflare.md)
-- [Nginx](add-headers.nginx.md)
+- [Apache](apache.md)
+- [Cloudflare](cloudflare.md)
+- [Nginx](nginx.md)
 
 Instructions for more servers, frameworks, and programming languages can be found at http://www.gnuterrypratchett.com/.
