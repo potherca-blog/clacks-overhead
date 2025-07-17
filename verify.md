@@ -9,7 +9,7 @@ In the browser, there two methods to verify the presence of the `X-Clacks-Overhe
 1. Using a browser plugin
 2. Using the browser's Developer Tools
 
-![verify-clacks-header.png](verify-clacks-header.png)
+![verify-clacks-header.png](img/verify-clacks-header.png)
 
 ### Using a browser plugin
 
@@ -24,8 +24,8 @@ There are browser plugins available for both Firefox and Chrome that can help yo
 
 |                   | Chrome                          | Firefox                          |
 |-------------------|---------------------------------|----------------------------------|
-| Clacks active     | ![](chrome.clacks-active.png)   | ![](firefox.clacks-active.png)   |
-| Clacks not active | ![](chrome.clacks-inactive.png) | ![](firefox.clacks-inactive.png) |
+| Clacks active     | ![](img/chrome.clacks-active.png)   | ![](img/firefox.clacks-active.png)   |
+| Clacks not active | ![](img/chrome.clacks-inactive.png) | ![](img/firefox.clacks-inactive.png) |
 
 ### Using the browser's Developer Tools
 

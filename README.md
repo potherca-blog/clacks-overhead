@@ -41,6 +41,6 @@ For instructions on how to add the `X-Clacks-Overhead` header to web servers, se
 After setting up the header, [verify it works](./verify.md).
 
 [1]: https://wiki.lspace.org/GNU_Terry_Pratchett
-[2]: https://gist.Pother.ca/877fc9b87c05a4a75c4f587c0ea9bed1/GNU-Robbert-Muller.gif
-[3]: https://gist.Pother.ca/877fc9b87c05a4a75c4f587c0ea9bed1/robbert.jpg
+[2]: img/GNU-Robbert-Muller.gif
+[3]: img/robbert.jpg
 [4]: https://www.rfc-editor.org/rfc/rfc7230#section-3.2
