@@ -36,6 +36,8 @@ If you must have a `ü`, or if you cannot modify the HTTP headers, the following
 <meta http-equiv="X-Clacks-Overhead" content="GNU Robbert Müller" />
 ```
 
+After setting up the header, [verify it works](./verify.md).
+
 [1]: https://wiki.lspace.org/GNU_Terry_Pratchett
 [2]: https://gist.Pother.ca/877fc9b87c05a4a75c4f587c0ea9bed1/GNU-Robbert-Muller.gif
 [3]: https://gist.Pother.ca/877fc9b87c05a4a75c4f587c0ea9bed1/robbert.jpg
