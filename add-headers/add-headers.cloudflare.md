@@ -17,16 +17,16 @@ At this point, the header should be added to all responses served by Cloudflare 
 
 <table><tr><td>
 
-![cloudflare.add-clacks.01.png](img/cloudflare.add-clacks.01.png)
+![cloudflare.add-clacks.01.png](../img/cloudflare.add-clacks.01.png)
 
 </td><td>
 
-![cloudflare.add-clacks.02.png](img/cloudflare.add-clacks.02.png)
+![cloudflare.add-clacks.02.png](../img/cloudflare.add-clacks.02.png)
 
 </td><td>
 
-![cloudflare.add-clacks.03.png](img/cloudflare.add-clacks.03.png)
+![cloudflare.add-clacks.03.png](../img/cloudflare.add-clacks.03.png)
 
 </td></tr></table>
 
-[1]: verify.md
+[1]: ../verify-headers/

@@ -11,4 +11,4 @@ To add the `X-Clacks-Overhead` header in Nginx, the `add_header` directive in th
 4. Save the changes to the configuration file.
 5. Restart Nginx to apply the changes by running `service nginx reload`, `nginx -s reload`, `systemctl reload nginx`, or similar command.
 
-At this point the header should be added to all responses served by Nginx. To check, see [the "How to verify" page](./verify.md).
+At this point the header should be added to all responses served by Nginx. To check, see [the "How to verify" page](../verify-headers/).

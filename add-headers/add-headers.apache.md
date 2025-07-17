@@ -2,7 +2,7 @@
 
 To add the `X-Clacks-Overhead` header to Apache, the `Header` directive can be added to the Apache configuration file or the `.htaccess` file.
 
-After setting up the header, [verify it works](./verify.md).
+After setting up the header, [verify it works](../verify-headers/).
 
 ## Apache Configuration
 
