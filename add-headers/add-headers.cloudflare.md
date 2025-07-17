@@ -1,4 +1,4 @@
-# Adding Clack Overhead to Cloudflare
+# Adding Clacks Overhead to Cloudflare
 
 To add the `X-Clacks-Overhead` header in Cloudflare, the "Transform Rules" feature can be used. This allows modifying HTTP headers for responses.
 
@@ -15,18 +15,11 @@ After logging in to the Cloudflare Dashboard and selecting a domain, follow thes
 
 At this point, the header should be added to all responses served by Cloudflare for the selected domain. To check, see [the "How to verify" page][1] Repeat for other domains as desired.
 
-<table><tr><td>
-
-![cloudflare.add-clacks.01.png](../img/cloudflare.add-clacks.01.png)
-
-</td><td>
-
-![cloudflare.add-clacks.02.png](../img/cloudflare.add-clacks.02.png)
-
-</td><td>
-
-![cloudflare.add-clacks.03.png](../img/cloudflare.add-clacks.03.png)
-
-</td></tr></table>
+| Steps 1-3 | Step 4 | Steps 5-8 |
+| :-------: | :----: | :-------: |
+| ![][2]    | ![][3] | ![][4]    |
 
 [1]: ../verify-headers/
+[2]: ../img/cloudflare.add-clacks.01.png
+[3]: ../img/cloudflare.add-clacks.02.png
+[4]: ../img/cloudflare.add-clacks.03.png

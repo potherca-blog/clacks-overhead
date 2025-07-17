@@ -1,4 +1,4 @@
-# Adding the Clack Overhead header
+# Adding the Clacks Overhead header
 
 How the Clacks Overhead header should be added depends on the server software that is used. 
 

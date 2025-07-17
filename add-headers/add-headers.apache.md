@@ -1,4 +1,4 @@
-# Adding Clack Overhead to Apache
+# Adding Clacks Overhead to Apache
 
 To add the `X-Clacks-Overhead` header to Apache, the `Header` directive can be added to the Apache configuration file or the `.htaccess` file.
 
