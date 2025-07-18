@@ -45,6 +45,58 @@ If you want a site to be added to the list, [open a merge request][5] to do so y
 
 - https://peachey-schoorl.com/
 - https://pother.ca
+- https://ossevoort.eu
+- https://internetionals.nl
+
+### Assortment of other sites used to forward the Clacks
+
+<details><summary>Large list</summary>
+
+- https://qdetect.com
+- https://qdetect.net
+- https://qdetect.nl
+- https://qmanage.at
+- https://qmanage.be
+- https://qmanage.ch
+- https://qmanage.co.uk
+- https://qmanage.cz
+- https://qmanage.de
+- https://qmanage.dk
+- https://qmanage.es
+- https://qmanage.eu
+- https://qmanage.fi
+- https://qmanage.fr
+- https://qmanage.gr
+- https://qmanage.it
+- https://qmanage.lu
+- https://qmanage.net
+- https://qmanage.nl
+- https://qmanage.pt
+- https://qmanage.se
+- https://qnetlabs.be
+- https://qnetlabs.com
+- https://qnetlabs.co.uk
+- https://qnetlabs.de
+- https://qnetlabs.eu
+- https://qnetlabs.net
+- https://qnetlabs.nl
+- https://qredirect.net
+- https://quarantaine.net
+- https://quarantainenet.be
+- https://quarantainenet.com
+- https://quarantainenet.co.uk
+- https://quarantainenet.de
+- https://quarantainenet.eu
+- https://quarantainenet.net
+- https://quarantainenet.nl
+- https://quarantinenet.be
+- https://quarantinenet.com
+- https://quarantinenet.co.uk
+- https://quarantinenet.de
+- https://quarantinenet.eu
+- https://quarantinenet.nl
+
+</details>
 
 <!--
 ### Robbert's Projects
