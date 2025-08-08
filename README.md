@@ -47,6 +47,8 @@ If you want a site to be added to the list, [open a merge request][5] to do so y
 - https://pother.ca
 - https://ossevoort.eu
 - https://internetionals.nl
+- https://www.dnd.utwente.nl/
+- https://a6502.net/
 
 ### Assortment of other sites used to forward the Clacks
 
