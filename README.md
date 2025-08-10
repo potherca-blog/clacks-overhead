@@ -43,10 +43,10 @@ If you want a site to be added to the list, [open a merge request][5] to do so y
 
 ### Friends of Robbert
 
-- https://peachey-schoorl.com/
-- https://pother.ca
-- https://ossevoort.eu
-- https://internetionals.nl
+- [internetionals.nl](https://internetionals.nl)
+- [ossevoort.eu](https://ossevoort.eu)
+- [peachey-schoorl.com/](https://peachey-schoorl.com/)
+- [pother.ca](https://pother.ca)
 
 ### Assortment of other sites used to forward the Clacks
 
