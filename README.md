@@ -35,6 +35,9 @@ The sites below have added the `X-Clacks-Overhead` header for Robbert Müller.
 
 If you want a site to be added to the list, [open a merge request][5] to do so yourself, [open an issue,][6] and it will be added for you, or contact `clacks-for-robbert@pother.ca`.
 
+> [!NOTE]
+> The sites below have a Clack-Overhead header, unless marked with <sup>&lt;meta&gt;</sup> in which case they have a `<meta>` tag with `http-equiv="X-Clacks-Overhead"`.
+
 <!-- Sorted alphabetically -->
 
 ### Community Projects
@@ -43,10 +46,12 @@ If you want a site to be added to the list, [open a merge request][5] to do so y
 
 ### Friends of Robbert
 
+- [dnd.utwente.nl](https://www.dnd.utwente.nl/) (Data Net Drienerlo)
 - [internetionals.nl](https://internetionals.nl)
 - [ossevoort.eu](https://ossevoort.eu)
 - [peachey-schoorl.com/](https://peachey-schoorl.com/)
 - [pother.ca](https://pother.ca)
+- [snt.utwente.nl](https://snt.utwente.nl/)<sup>&lt;meta&gt;</sup> (Studenten Net Twente)
 
 ### Assortment of other sites used to forward the Clacks
 
